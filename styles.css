@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+h1, label {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#email {
+     position: relative;
+     left: 73px;
+}
+
+#email-input {
+    position:relative;
+    left: 108px;
+}
+
+
+.buttonHolder { 
+    text-align: center; 
+}
+
+#sub-button {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
