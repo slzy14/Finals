@@ -12,6 +12,16 @@ body {
     vertical-align: middle;
 }
 
+form {
+
+    background: rgb(127, 204, 124);
+     padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+   border-radius: 25px;
+}
+
 
 h1, label {
     font-family: Arial, Helvetica, sans-serif;
@@ -36,4 +46,6 @@ h1, label {
     width: 100px;
     margin-left: auto;
     margin-right: auto;
+     border-radius: 25px;
 }
+
